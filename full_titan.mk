@@ -24,5 +24,5 @@ $(call inherit-product, device/motorola/titan/device.mk)
 PRODUCT_DEVICE := titan
 PRODUCT_NAME := full_titan
 PRODUCT_BRAND := motorola
-PRODUCT_MODEL := titan
+PRODUCT_MODEL := Moto G 2014
 PRODUCT_MANUFACTURER := motorola
